@@ -1,0 +1,13 @@
+name = GivLowe
+description = GivLowe Theme
+package = Core
+version = VERSION
+core = 7.x
+
+stylesheets[all][] = css/foundation.css
+stylesheets[all][] = fonts/foundation-icons.css
+stylesheets[all][] = css/layout.less
+
+scripts[] = js/vendor/modernizr.js
+scripts[] = js/foundation.min.js
+scripts[] = js/scripts.js
